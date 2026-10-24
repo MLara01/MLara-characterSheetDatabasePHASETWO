@@ -1,0 +1,22 @@
+Character Data Sheet
+ID   Name             Health Level Exp Inspiration
+1  | Morrigyn Lyndis    | 27 | 10 | 76 | true
+2  | Luso Venase        | 30 | 07 | 90 | true
+3  | Eurydice Burroughs | 20 | 08 | 75 | false
+4  | Penelope Vorso     | 17 | 06 | 69 | false
+5  | Aithne Ashburrow   | 46 | 17 | 38 | true
+6  | N01R3              | 35 | 04 | 10 | true
+7  | Eli Varin          | 29 | 05 | 67 | false
+8  | Scarlet Mhenthi    | 21 | 07 | 03 | false
+9  | Kurayami Tenshi    | 53 | 19 | 08 | true 
+10 | Nathaniel Lyndis   | 18 | 02 | 19 | true
+11 | Wallon Deekes      | 69 | 29 | 59 | true
+12 | Ury Brendan        | 39 | 18 | 64 | false
+13 | Poola Kawoola      | 69 | 34 | 69 | true
+14 | Sham Wow           | 45 | 11 | 79 | false
+15 | Pat Stoomp         | 57 | 32 | 22 | false
+16 | Will Powers        | 43 | 58 | 79 | true
+17 | Nyana Ayumi        | 55 | 78 | 98 | false
+18 | Korby Corbie       | 33 | 53 | 27 | true
+19 | Hayley Williams    | 67 | 69 | 42 | true
+20 | Adobe Ockechobee   | 69 | 69 | 01 | false
